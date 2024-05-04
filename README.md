@@ -1,2 +1,1 @@
-# Blox-Fruit-Big-Hitbox
-BF - Bigger Hitbox
+# Status: UNDETECTED / NOT PATCHED
